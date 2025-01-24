@@ -10,7 +10,7 @@
   <div style="flex: 1;">
     <h3>About Me</h3>
     <p>
-      Hi there! 👋 I'm **Aadiii** (aka **senpaiii10**), a passionate developer with a love for creating versatile and efficient tools to make life easier. I specialize in building **Telegram bots**, writing clean and maintainable code, and exploring innovative solutions to complex problems.
+      Hi there! 👋 I'm Aadiii (aka Senpaiii10), a passionate developer with a love for creating versatile and efficient tools to make life easier. I specialize in building **Telegram bots**, writing clean and maintainable code, and exploring innovative solutions to complex problems.
 .
     </p>
   </div>
